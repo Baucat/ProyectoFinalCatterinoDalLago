@@ -1,0 +1,7 @@
+[
+  { "nombre": "Mandioca", "precio": 500, "stock": 10 },
+  { "nombre": "Uva", "precio": 400, "stock": 15 },
+  { "nombre": "Toronjas", "precio": 300, "stock": 20 },
+  { "nombre": "Papaya", "precio": 100, "stock": 30 },
+  { "nombre": "Pepino", "precio": 350, "stock": 25 }
+]
